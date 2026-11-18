@@ -1,5 +1,5 @@
-# vitejs-vite-njhjacvb
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Csa9696/vitejs-vite-njhjacvb)
-Status: Concluído com sucesso.
-
+#vitejs-vite-njhjacvb
+## Como executar o projeto
+1. **Instalar as dependências:**
+'''bash
+npm install
