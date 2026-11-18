@@ -3,3 +3,6 @@
 1. **Instalar as dependências:**
 '''bash
 npm install
+
+npm run api
+npm run dev
